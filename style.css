@@ -1,0 +1,16 @@
+h1{
+    font-family: 'impact', sans-serif;
+    font-size: 60px;
+    -webkit-text-stroke: 2px black;
+    color: blueviolet;
+    text-align: center;
+}
+body{
+    background-color: #00ffff9a;
+    background-image: url('https://assets.streamlinehq.com/image/private/w_512,h_512,ar_1/f_auto/v1/icons/memes-hand-drawn/nervous-pepe-frog-hand-drawn-s2wox7tfxv753ebxa0hwv.png/nervous-pepe-frog-hand-drawn-mgxuqfv9rfx2mzg0koub.png?_a=DAJFJtWIZAAC');
+    background-size: 400px 400px;
+    background-cover: 60px;
+    background-position: 50% 50%;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
